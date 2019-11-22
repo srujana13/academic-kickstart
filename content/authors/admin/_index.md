@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: Master of Computer Science
-    institution: North Carolina State University
+    institution: North Carolina State University, Raleigh
     year: 2020
   - course: Bachelor of Technology in Computer Science and Engineering
-    institution: Jawaharlal Nehru Technological University, Hyderabad
+    institution: Jawaharlal Nehru Technological University (JNTU), Hyderabad
     year: 2018
 
 # Social/Academic Networking
@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:srachak@ncsu.edu".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://linkedin.com/in/srujana13/
 - icon: github
   icon_pack: fab
   link: https://github.com/srujana13
@@ -64,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! :) I am Srujana, a Computer Science grad student at NC State Univerisity. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
