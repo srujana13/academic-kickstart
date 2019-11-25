@@ -4,7 +4,7 @@
 title: "Music Genre Classification"
 summary: "Application which utilizes GTZAN dataset of 1000 audio files to classify them into different music genres. Applied MFCC for feature extraction and implemented state-of-the-art classifiers using scikit-learn and ranked them based on performance. Incorporated an ensemble with majority voting heuristic, achieved an accuracy of 92.6% against four genres "
 authors: [Srujana Rachakonda, Umar Farooq, Prarthana Lunia]
-tags: [Machine Learning, Data Science, Logistic Regression, Naive Bayes, Multi Layered Perceptron, Support Vector Machines, Data Mining]
+tags: [Machine Learning, Data Science, Logistic Regression, Naive Bayes, Multi Layered Perceptron, Support Vector Machines, Data Mining, Python ]
 categories: []
 date: 2019-11-24T18:55:07-05:00
 
