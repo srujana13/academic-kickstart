@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Raleigh, NC"
   date_start = "2019-08-21"
   date_end = ""
-  description = """Assisting the professor in conducting the graduate level course CSC 412/512 - Compiler Construction
+  description = """Assisting the professor in conducting the graduate level course CSC 412|512 - Compiler Construction
 
 Responsibilities:
 

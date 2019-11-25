@@ -64,6 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! :) I am Srujana, a Computer Science grad student at NC State Univerisity. 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi! :) I am Srujana, a Computer Science grad student at NC State Univerisity. I completed my undergradute studies in Computer Science in Hyderabad, India in 2018. I had the opportunity to work on real world problems during my one year at Amazon. I am actively seeking summer internship positions for summer 2020! Outside of work, My interests include photography, fictional books and baking. 
