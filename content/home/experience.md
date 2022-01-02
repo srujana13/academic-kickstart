@@ -18,6 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Engineer"
+  company = "MathWorks"
+  company_url = "https://www.mathworks.com/"
+  location = "Natick, MA"
+  date_start = "2021-02-01"
+  date_end = "present"
+  description = """
+  
+  * Developed a feature to import/export course content to support localization of online courses offered by MathWorks.
+  * Developed web application and automated job powered by Spring Boot and React JS for managing access to business applications.
+  """
+  
+[[experience]]
+  title = "Intern in Engineering Development Group"
+  company = "MathWorks"
+  company_url = "https://www.mathworks.com/"
+  location = "Natick, MA"
+  date_start = "2020-05-10"
+  date_end = "2020-08-14"
+  description = """
+  
+  * Extended Swagger CodeGen open-source project to support MATLAB and generated API clients from API Docs in Yaml/Json. Encapsulated generated API clients into a toolbox leveraged by multiple teams.
+  * Developed Rest APIs in Ruby on Rails leveraging Apache Solr, documented with OpenAPI Spec and augmented Swagger UI.
+  * Built an automated framework for validating API doc in Java and REST Assured, triggered tests using TeamCity.
+  """
+
+[[experience]]
   title = "Graduate Teaching Assistant"
   company = "NC State University"
   company_url = "https://www.ncsu.edu/"
