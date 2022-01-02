@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.mathworks.com/"
   location = "Natick, MA"
   date_start = "2021-02-01"
-  date_end = "present"
+  date_end = ""
   description = """
   
   * Developed a feature to import/export course content to support localization of online courses offered by MathWorks.
@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ncsu.edu/"
   location = "Raleigh, NC"
   date_start = "2019-08-21"
-  date_end = ""
+  date_end = "2020-12-31"
   description = """Assisting the professor in conducting the graduate level course CSC 412|512 - Compiler Construction
 
 Responsibilities:
