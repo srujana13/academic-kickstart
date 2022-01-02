@@ -4,7 +4,7 @@
 title: "Deep Learning - Terrain Identification for Time Series Data"
 summary: "Implemented an LSTM model with shifting and down sampling the data to achieve an F1 score of 0.868, a signification improvement over random forest baseline which gave an F1 score of 0.39. Compared results with techniques such as SMOTE and weighted loss."
 authors: [Srujana Rachakonda, Mita Gavade, Ayush Jain]
-tags: [Python, Numpy, Pandas, Scipy, Keras, Sklearn]
+tags: [Python, Numpy, Pandas, Scipy, Keras, Sklearn, Data Science]
 categories: []
 date: 2020-11-24T19:08:03-05:00
 

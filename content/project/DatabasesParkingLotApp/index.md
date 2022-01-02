@@ -7,7 +7,7 @@ to employees, students and visitors and there are different eligibility constrai
 permits in the different lots as well as time restrictions for eligibility. In addition to the permits,
 UPS issues tickets/citations for parking violations and collects fees for them."
 authors: [Srujana Rachakonda, Ayush Khot, Rajshree Jain]
-tags: [MySQL, Spring-Boot, Java, Maven]
+tags: [MySQL, Spring-Boot, Java, Maven, Software Development]
 categories: []
 date: 2020-11-24T19:08:03-05:00
 

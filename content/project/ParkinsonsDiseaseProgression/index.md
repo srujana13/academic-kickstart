@@ -4,7 +4,7 @@
 title: "Data Science and Machine Learning - Prediction of Parkinson’s Disease Progression"
 summary: "Predicted the Total UPDRS score based on 6000 records from the Parkinson’s telemonitoring dataset using various regression techniques. Achieved a minimum MAE of 0.415 using PCA with a multi-layered perceptron model. Determined an optimum threshold value of 15 for motor UPDRS score discriminated by dysphonia measurements"
 authors: [Srujana Rachakonda, Devi Krishnan, Sreeraksha Mavinkally Sreekantha, Rajshree Jain]
-tags: [Python, Numpy, Pandas, Sklearn, Keras, Tensorflow]
+tags: [Python, Numpy, Pandas, Sklearn, Keras, Tensorflow, Data Science]
 categories: []
 date: 2020-11-24T19:08:03-05:00
 

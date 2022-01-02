@@ -4,7 +4,7 @@
 title: "Python - GITS Command Line Tool"
 summary: "Developed a command line tool as a wrapper for git to automate some of the more complex git workflows. Written in python, used Travis CI for CI/CD, flake8 for style checking, Pytest for testing"
 authors: [Amol Gautam, Sneha Kumar, Sreeraksha Mavinhally Sreekantha, Srujana Rachakonda, Tanay Agarwal]
-tags: [Python, CLI, Travis CI, Pytest, Git]
+tags: [Python, CLI, Travis CI, Pytest, Git, Software Development]
 categories: []
 date: 2020-11-24T19:08:03-05:00
 

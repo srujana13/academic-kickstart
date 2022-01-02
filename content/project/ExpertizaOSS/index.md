@@ -4,7 +4,7 @@
 title: "Web Development - Peer Review System"
 summary: "Expertiza is a peer review system which produces resusable learning objects through active learning. We implemented the bookmark rating functionality using Ruby on Rails MVC framework. Students can rate the effectives of the bookmarks contributed by their peers using this feature. Fixed existing bugs with respect to rating average calculation logic and back button. Thoroughly tested both the model and controller using Rspec"
 authors: [Srujana Rachakonda, Abhirav Kariya, Tanvi Pandit]
-tags: [Ruby on Rails, MVC, Object Oriented Design, Open Source, MySQL]
+tags: [Ruby on Rails, MVC, Object Oriented Design, Open Source, MySQL, Software Development]
 categories: []
 date: 2019-11-24T19:08:03-05:00
 

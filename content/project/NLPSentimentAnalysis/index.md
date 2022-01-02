@@ -4,12 +4,12 @@
 title: "Natural Language Processing - Sentiment Analysis"
 summary: "Performed sentiment analysis on a crowd sourced movie review dataset with doc2vec model for vectorization pre-trained on IMDB movie review dataset. Compared results against other vectorization techniques such as count vectorization and word2vec models"
 authors: [Srujana Rachakonda]
-tags: [Python, Doc2Vec, Word2Vec]
+tags: [Python, Doc2Vec, Word2Vec, Data Science]
 categories: []
 date: 2020-11-24T19:08:03-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/amolgautam25/GITS"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

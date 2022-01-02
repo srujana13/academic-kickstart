@@ -27,7 +27,7 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Software Development"
-     tag = "Object Oriented Design"
+     tag = "Software Development"
   
    [[content.filter_button]]
      name = "Data Science"
