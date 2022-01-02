@@ -90,11 +90,11 @@ email = "srachak@ncsu.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Raleigh", region = "NC", postcode = "27695", country = "United States", country_code = "US"}
+address = {street = "", city = "Boston", region = "MA", postcode = "01760", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "35.784559", longitude = "-78.682052"}
+coordinates = {latitude = "42.302707", longitude = "-71.378072"}
 
 # Directions for visitors to locate you.
 # directions = ""
