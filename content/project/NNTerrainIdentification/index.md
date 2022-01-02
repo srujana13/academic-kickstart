@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Web Development - Peer Review System"
-summary: "Expertiza is a peer review system which produces resusable learning objects through active learning. We implemented the bookmark rating functionality using Ruby on Rails MVC framework. Students can rate the effectives of the bookmarks contributed by their peers using this feature. Fixed existing bugs with respect to rating average calculation logic and back button. Thoroughly tested both the model and controller using Rspec"
-authors: [Srujana Rachakonda, Abhirav Kariya, Tanvi Pandit]
-tags: [Ruby on Rails, MVC, Object Oriented Design, Open Source, MySQL]
+title: "Deep Learning - Terrain Identification for Time Series Data"
+summary: "Implemented an LSTM model with shifting and down sampling the data to achieve an F1 score of 0.868, a signification improvement over random forest baseline which gave an F1 score of 0.39. Compared results with techniques such as SMOTE and weighted loss."
+authors: [Srujana Rachakonda, Mita Gavade, Ayush Jain]
+tags: [Python, Numpy, Pandas, Scipy, Keras, Sklearn]
 categories: []
-date: 2019-11-24T19:08:03-05:00
+date: 2020-11-24T19:08:03-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/expertiza/expertiza/pull/1540"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

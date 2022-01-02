@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hand Gesture Recognition System"
-summary: "Executed an application in Java to recognize hand gestures through real-time video. Leveraged image processing techniques such as skin color segmentation using Open CV library"
-authors: [Srujana Rachakonda]
-tags: [Java, OpenCV]
+title: "Data Science and Machine Learning - Prediction of Parkinson’s Disease Progression"
+summary: "Predicted the Total UPDRS score based on 6000 records from the Parkinson’s telemonitoring dataset using various regression techniques. Achieved a minimum MAE of 0.415 using PCA with a multi-layered perceptron model. Determined an optimum threshold value of 15 for motor UPDRS score discriminated by dysphonia measurements"
+authors: [Srujana Rachakonda, Devi Krishnan, Sreeraksha Mavinkally Sreekantha, Rajshree Jain]
+tags: [Python, Numpy, Pandas, Sklearn, Keras, Tensorflow]
 categories: []
-date: 2019-11-24T19:53:07-05:00
+date: 2020-11-24T19:08:03-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/srujana13/ParkinsonsDiseaseProgression"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

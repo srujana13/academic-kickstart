@@ -1,15 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Face Recognition based attendace system"
-summary: "Developed a desktop application in python utilizing haar-cascade classifier of OpenCV for object detection. Built student and admin portals with Java Server Pages and PostgreSQL to manage attendance"
-authors: [Srujana Rachakonda, Prarthana Lunia, Krishna Murthy, Umar Farooq]
-tags: [OpenCV, Python, JSPs, Java, HTML, CSS, JavaScript]
+title: "Databases - Parking Lot Application"
+summary: "Designed an application to help University Parking Services and manage the campus parking lot and it's users. The UPS issues parking permits
+to employees, students and visitors and there are different eligibility constraints for parking
+permits in the different lots as well as time restrictions for eligibility. In addition to the permits,
+UPS issues tickets/citations for parking violations and collects fees for them."
+authors: [Srujana Rachakonda, Ayush Khot, Rajshree Jain]
+tags: [MySQL, Spring-Boot, Java, Maven]
 categories: []
-date: 2019-11-24T19:49:29-05:00
+date: 2020-11-24T19:08:03-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/srujana13/ParkingApplication"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

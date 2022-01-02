@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Computer Science, Masters Student
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: North Carolina State University
-  url: "https://www.ncsu.edu/"
+- name: MathWorks
+  url: "https://www.mathworks.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Software Development
@@ -52,7 +52,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/Software_Engineering_internship.pdf
+  link: files/SrujanaRachakonda.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! :) I am Srujana, a Computer Science grad student at NC State Univerisity. I completed my undergradute studies in Computer Science in Hyderabad, India in 2018. I had the opportunity to work on real world problems during my one year at Amazon. I am actively seeking summer internship positions for summer 2020! Outside of work, My interests include photography, fictional books and baking. 
+Hello, I am Srujana, a working professional in the IT industry, currently working as a Software Engineer at MathWorks. I completed my Masters in Computer Science from North Carolina State University, Raielgh. Outside of work, My interests include photography, reading and baking. 

@@ -1,16 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Library Management System"
-summary: "Developed a web application using ruby on rails framework that integrates admin, librarians and students for an effortless experience, hosted on Heroku. Implemented additional features such as auto checkouts on availability, hold requests and email notifications
-"
-authors: [Srujana Rachakonda, Ankit Manendra, Sai Vishnu Muvvala]
-tags: [Ruby on Rails, MVC, Object Oriented Design, PostgreSQL]
+title: "Natural Language Processing - Sentiment Analysis"
+summary: "Performed sentiment analysis on a crowd sourced movie review dataset with doc2vec model for vectorization pre-trained on IMDB movie review dataset. Compared results against other vectorization techniques such as count vectorization and word2vec models"
+authors: [Srujana Rachakonda]
+tags: [Python, Doc2Vec, Word2Vec]
 categories: []
-date: 2019-11-24T19:02:16-05:00
+date: 2020-11-24T19:08:03-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.ncsu.edu/amanend/OODD_2"
+external_link: "https://github.com/amolgautam25/GITS"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

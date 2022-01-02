@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Music Genre Classification"
-summary: "Application which utilizes GTZAN dataset of 1000 audio files to classify them into different music genres. Applied MFCC for feature extraction and implemented state-of-the-art classifiers using scikit-learn and ranked them based on performance. Incorporated an ensemble with majority voting heuristic, achieved an accuracy of 92.6% against four genres "
-authors: [Srujana Rachakonda, Umar Farooq, Prarthana Lunia]
-tags: [Machine Learning, Data Science, Logistic Regression, Naive Bayes, Multi Layered Perceptron, Support Vector Machines, Data Mining, Python ]
+title: "Python - GITS Command Line Tool"
+summary: "Developed a command line tool as a wrapper for git to automate some of the more complex git workflows. Written in python, used Travis CI for CI/CD, flake8 for style checking, Pytest for testing"
+authors: [Amol Gautam, Sneha Kumar, Sreeraksha Mavinhally Sreekantha, Srujana Rachakonda, Tanay Agarwal]
+tags: [Python, CLI, Travis CI, Pytest, Git]
 categories: []
-date: 2019-11-24T18:55:07-05:00
+date: 2020-11-24T19:08:03-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/srujana13/Music-Genre-Classification"
+external_link: "https://github.com/amolgautam25/GITS"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
